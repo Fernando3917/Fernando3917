@@ -1,6 +1,7 @@
 ### Hellow, Sou Fernando3917  👋
 
-- 🌱 estudando: python
+- 🎓 estudando: ciência da computação 
+- 🌱 linguagens: python, js
 - 📫 meu email: fa8361272@gmail.com
 - 😄 Pronouns: ele/dele
 
