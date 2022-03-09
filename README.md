@@ -1,4 +1,4 @@
-### Hellow, Sou Fernando3917  👋
+### Hellow, Sou Fernando 👋
 
 - 🎓 estudando: ciência da computação 
 - 🌱 linguagens: php, c++
