@@ -1,7 +1,7 @@
 ### Hellow, Sou Fernando 👋
 
 - 🎓 Estudando: ciência da computação 
-- 🌱 Linguagens: php, Python
+- 🌱 Linguagens: php, python
 - 📫 Meu email: contato.fernando39@gmail.com
 -    Estagiário na PRODEMGE
  
