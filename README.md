@@ -3,7 +3,7 @@
 - 🎓 Estudando: ciência da computação 
 - 🌱 Linguagens: php, python
 - 📫 Meu email: contato.fernando39@gmail.com
--    Estagiário na PRODEMGE
+-    Analista de Suporte
  
  O prêmio por fazer uma coisa bem feita é tê-la feito.<br>
 Ralph Waldo Emerson
